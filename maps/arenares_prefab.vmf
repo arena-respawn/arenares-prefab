@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "10225"
-	"mapversion" "140"
+	"mapversion" "142"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "140"
+	"mapversion" "142"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -1355,7 +1355,7 @@ entity
 	"id" "284"
 	"classname" "trigger_add_tf_player_condition"
 	"condition" "5"
-	"duration" "3"
+	"duration" "2"
 	"filtername" "filter_dead"
 	"origin" "-16 296 68"
 	"spawnflags" "1"
