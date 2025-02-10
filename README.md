@@ -1,3 +1,5 @@
+type "sv_allow_point_servercommand always" in console command to enable custom configuration provided by the map.
+
 Arena Respawn Gamemode Design (This overview highlights the changes made to Arena mode):
 
 - First Blood crits are disabled.
