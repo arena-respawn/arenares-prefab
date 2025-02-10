@@ -2,8 +2,8 @@ Type "sv_allow_point_servercommand always" in console command to enable custom c
 
 Implementation:
 1. Remove all Arena Logic in Map > Entity Logic.
-2. "player_gamedie" logic shouldn't be reachable by players.
-3. "trigger_add_tf_player_condition" logic should be reachable by players.
+2. "player_gamedie" entity logic shouldn't be reachable by players.
+3. "trigger_add_tf_player_condition" entity logic should be reachable by players.
 
 Arena Respawn Gamemode Design (This overview highlights the changes made to Arena mode):
 
