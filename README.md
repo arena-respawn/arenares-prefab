@@ -10,4 +10,4 @@ Arena Respawn Gamemode Design (This overview highlights the changes made to Aren
 - When a player captures the point, their teammates respawn (ubered for 3 seconds), and timer is set to 1 minute and 20 seconds.
 - When a player is on a captured point that belong to their team, they'll be marked for death. The debuff expires within 5 seconds when leaving the captured point.
 
-Thanks to [H₂OGamez](https://steamcommunity.com/id/h20gamez) for Arena Respawn prefab. Modified by me.
+Thanks to [H₂OGamez](https://steamcommunity.com/profiles/76561198250471340) for Arena Respawn prefab. Modified by me.
