@@ -23,4 +23,4 @@ Report (Competitive players are not included in this report, 4v4 unaffiliated ra
 - Stock Engineer were not impactful for sitting at spawn.
 - In 3 out of 16 rounds, teammates were respawned by capturing the point.
 
-Thanks to [H₂OGamez](https://steamcommunity.com/id/h20gamez) for Arena Respawn prefab.
+Thanks to [H₂OGamez](https://steamcommunity.com/id/h20gamez) for Arena Respawn prefab. Modified by me.
