@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "10225"
-	"mapversion" "139"
+	"mapversion" "140"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "139"
+	"mapversion" "140"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -1330,54 +1330,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 2000]"
-	}
-}
-entity
-{
-	"id" "2256"
-	"classname" "point_servercommand"
-	"targetname" "server"
-	"origin" "-168.092 -305.451 15.723"
-	editor
-	{
-		"color" "126 119 0"
-		"groupid" "2654"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 7500]"
-	}
-}
-entity
-{
-	"id" "2242"
-	"classname" "logic_auto"
-	"spawnflags" "1"
-	connections
-	{
-		"OnMapSpawn" "serverCommandsv_vote_issue_scramble_teams_allowed 00-1"
-		"OnMapSpawn" "serverCommandsv_vote_issue_nextlevel_allowed 0 0-1"
-		"OnMapSpawn" "serverCommandsv_vote_issue_nextlevel_allowextend 00-1"
-		"OnMapSpawn" "serverCommandsv_vote_issue_extendlevel_allowed 0 0-1"
-		"OnMapSpawn" "serverCommandmp_forceautoteam 10-1"
-		"OnMapSpawn" "serverCommandmp_spectators_restricted 10-1"
-		"OnMapSpawn" "serverCommandmp_allowspectators 00-1"
-		"OnMapSpawn" "serverCommandtf_arena_first_blood 00-1"
-		"OnMapSpawn" "serverCommandtf_arena_use_queue 00-1"
-		"OnMapSpawn" "serverCommandtf_arena_preround_time 50-1"
-		"OnMapSpawn" "serverCommandtf_arena_override_cap_enable_time 150-1"
-		"OnMapSpawn" "serverCommandmp_maxrounds 240-1"
-		"OnMapSpawn" "serverCommandmp_winlimit 120-1"
-		"OnMapSpawn" "serverCommandtf_arena_max_streak 60-1"
-	}
-	"origin" "-152.092 -300.938 12.5"
-	editor
-	{
-		"color" "126 119 0"
-		"groupid" "2654"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"comments" "Console Commands"
-		"logicalpos" "[0 7500]"
 	}
 }
 entity
