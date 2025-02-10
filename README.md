@@ -1,5 +1,10 @@
 Type "sv_allow_point_servercommand always" in console command to enable custom configuration provided by the map.
 
+Implementation:
+1. Remove all Arena Logic in Map > Entity Logic.
+2. "player_gamedie" cube shouldn't be reachable.
+3. "trigger_add_tf_player_condition" should be reachable.
+
 Arena Respawn Gamemode Design (This overview highlights the changes made to Arena mode):
 
 - After 15 seconds from the round start, the capture point unlocks. It starts with 1 minute and 20 seconds timer. If neither team captures the point within that time, the round results in a stalemate.
