@@ -1,5 +1,3 @@
-Type "sv_allow_point_servercommand always" in console command to enable custom configuration provided by the map.
-
 Implementation:
 1. Remove all Arena Logic in Map > Entity Logic.
 2. "player_gamedie" entity logic shouldn't be reachable by players.
