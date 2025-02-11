@@ -3,7 +3,7 @@
 2. "player_gamedie" entity logic shouldn't be reachable by players.
 3. "trigger_add_tf_player_condition" entity logic should be reachable by players.
 
-## Arena Respawn Gamemode Design:
+## Arena Respawn Gamemode Design
 This overview highlights the changes made to Arena mode.
 
 - After 15 seconds from the round start, the capture point unlocks. It now begins with 1 minute and 20 seconds timer. If neither team captures the point within that time, the round results in a stalemate.
