@@ -1,4 +1,4 @@
-## Implementation:
+## Implementation
 1. Remove all Arena Logic. Locate in Map > Entity Logic. Replace it with the grouped items.
 2. "player_gamedie" entity logic shouldn't be reachable by players.
 3. "trigger_add_tf_player_condition" entity logic should be reachable by players.
