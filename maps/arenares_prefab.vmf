@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "10225"
-	"mapversion" "151"
+	"mapversion" "152"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "151"
+	"mapversion" "152"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -1769,8 +1769,8 @@ entity
 	"id" "2751"
 	"classname" "trigger_add_tf_player_condition"
 	"condition" "28"
-	"duration" "-1"
-	"filtername" "filter_player"
+	"duration" "5"
+	"filtername" "filter_dead"
 	"origin" "-16 328 68"
 	"spawnflags" "1"
 	"StartDisabled" "0"
@@ -1867,8 +1867,8 @@ entity
 	"id" "284"
 	"classname" "trigger_add_tf_player_condition"
 	"condition" "5"
-	"duration" "-1"
-	"filtername" "filter_player"
+	"duration" "5"
+	"filtername" "filter_dead"
 	"origin" "-16 328 68"
 	"spawnflags" "1"
 	"StartDisabled" "0"
