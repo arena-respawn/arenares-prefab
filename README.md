@@ -11,7 +11,7 @@ This overview highlights the changes made to Arena mode.
 - When a player captures the point, their teammates respawn (ÜberCharge invulnerability and knock back/movement immunity for 5 seconds), and timer is set to 1 minute and 20 seconds.
 - When a player is on a captured point that belong to their team, they'll be marked for death. The debuff expires within 5 seconds when leaving the captured point.
 
-TODO: Fix ÜberCharge invulnerability and knock back/movement immunity respawn and add Mark for Death Immunity duration after capturing the point.
+TODO: VScript conversion, fix ÜberCharge invulnerability and knock back/movement immunity respawn and add Mark for Death Immunity duration after capturing the point.
 
 ## Credits
 Thanks to [H₂OGamez](https://steamcommunity.com/profiles/76561198250471340) for Arena Respawn prefab. Modified by [me](https://steamcommunity.com/profiles/76561198814808222/).
