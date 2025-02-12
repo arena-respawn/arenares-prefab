@@ -14,4 +14,4 @@ This overview highlights the changes made to Arena mode.
 TODO: Fix respawn ÜberCharge invulnerability and knock back/movement immunity and Mark for Death Immunity after capturing the point.
 
 ## Credits
-Thanks to [H₂OGamez](https://steamcommunity.com/profiles/76561198250471340) for Arena Respawn prefab. Modified by [me](https://steamcommunity.com/profiles/76561198814808222/). I plan to convert this into VScript if I have the time and if there's enough interest in the Arena Respawn gamemode.
+Thanks to [H₂OGamez](https://steamcommunity.com/profiles/76561198250471340) for Arena Respawn prefab. Modified by [me](https://steamcommunity.com/profiles/76561198814808222/).
